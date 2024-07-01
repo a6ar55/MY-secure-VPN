@@ -55,6 +55,13 @@ Living on a campus with a restrictive firewall can be frustrating, especially wh
    - Install the OpenVPN Connect client on your device.
    - Connect to the VPN server and route your traffic through it.
 
+```Connected! Welcome to the Open Internet!```
+
+
+![WhatsApp Image 2024-07-01 at 22 15 49](https://github.com/a6ar55/MY-secure-VPN/assets/117556787/3a85ddac-d7c2-4b6e-b1db-b43b6fdf6a7d)
+       <img width="328" alt="Screenshot 2024-07-01 at 10 17 36 PM" src="https://github.com/a6ar55/MY-secure-VPN/assets/117556787/37cf7af6-6342-4293-b50f-3312a13c2bb4">
+
+
 ## Usage
 
 1. Launch the OpenVPN Connect client on your device.
