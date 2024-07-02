@@ -14,6 +14,7 @@
 Tired of your college firewall blocking access to your favorite sites like Spotify and Netflix? Look no further! This project is your ultimate solution to bypass those annoying restrictions. By leveraging AWS's powerful EC2 instances with elastic IPs and the robust OpenVPN, you and your friends can enjoy a seamless, unrestricted internet experience.
 
 ## Motivation
+<img width="707" alt="Screenshot 2024-07-02 at 8 41 48 AM" src="https://github.com/a6ar55/MY-secure-VPN/assets/117556787/61f9e728-2e87-4e83-9c6e-d91c42116c78">
 
 Living on a campus with a restrictive firewall can be frustrating, especially when you can't access essential resources or entertainment platforms. After discovering that even popular VPN services were blocked, I took matters into my own hands. Using AWS services, I crafted a custom VPN solution that breaks free from these digital chains, ensuring that students can surf the web freely and enjoy a better online experience.
 
