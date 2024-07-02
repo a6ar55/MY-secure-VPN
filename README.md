@@ -35,6 +35,10 @@ Living on a campus with a restrictive firewall can be frustrating, especially wh
 
 ### Steps
 
+
+https://github.com/a6ar55/MY-secure-VPN/assets/117556787/33c7dbeb-2486-442b-a807-43b553e2b2ac
+
+
 1. **Create an EC2 Instance:**
    - Launch an EC2 instance using the OpenVPN AMI from the AWS Marketplace.
    - Attach an Elastic IP to the instance.
